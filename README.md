@@ -59,21 +59,21 @@ STS + JSP 커뮤니티_스터디룸 예약 사이트
 
 
 ## ERD
-![dingdong ERD](https://github.com/user-attachments/assets/40d7bb2a-73ba-4334-b48c-8c7770d08a61)
+<img src="https://github.com/user-attachments/assets/40d7bb2a-73ba-4334-b48c-8c7770d08a61" width="500" height="400"/>
 
 
 
 ## 구현화면
 <details>
   <summary>보기</summary>
-  ![스크린샷 2024-07-19 162938](https://github.com/user-attachments/assets/075df8c9-c29a-4d6a-af3b-b1817826fccb)
-  ![스크린샷 2024-07-19 163028](https://github.com/user-attachments/assets/5423bf1c-bc7e-4d51-9b17-c4f211b80ff9)
-  ![스크린샷 2024-07-19 163131](https://github.com/user-attachments/assets/127a0ba9-6ff6-4e83-8b6e-d70eee85058f)
-  ![스크린샷 2024-07-19 163240](https://github.com/user-attachments/assets/0498ed67-5481-4eea-b594-2d9a8392814e)
-  ![스크린샷 2024-07-19 163258](https://github.com/user-attachments/assets/728d13b1-bb00-4af3-966a-5609b942d7c5)
-  ![스크린샷 2024-07-19 163343](https://github.com/user-attachments/assets/586bf60d-1ae7-4f13-84b5-93499a023aad)
-  ![스크린샷 2024-07-19 163413](https://github.com/user-attachments/assets/0c5443bc-4c68-4725-b1ba-e6a066c7b867)
-  ![스크린샷 2024-07-19 163448](https://github.com/user-attachments/assets/0152157e-9cac-42d3-9665-59af3f690b27)  
+   <img src="https://github.com/user-attachments/assets/e144d420-536e-4fdc-8901-eb1445378e11" width="500" height="400"/>
+    <img src="https://github.com/user-attachments/assets/aeac7994-d775-4652-9e03-fb4d57ad8a14" width="500" height="400"/>
+    <img src="https://github.com/user-attachments/assets/91259617-7af7-4173-ace4-b3f0c2e40c88" width="500" height="400"/>
+    <img src="https://github.com/user-attachments/assets/8df55615-8e30-48b5-9af7-d6b7d41112cd" width="500" height="400"/>
+    <img src="https://github.com/user-attachments/assets/fe84ae29-827d-4c95-9cca-de63289e5648" width="500" height="400"/>
+    <img src="https://github.com/user-attachments/assets/3f0670e4-e158-4f86-9f9d-d8d2e6827c22" width="500" height="400"/>
+    <img src="https://github.com/user-attachments/assets/5910d1cf-ce31-474e-84eb-5a0c4221fb76" width="500" height="400"/>
+    <img src="https://github.com/user-attachments/assets/7e7137d1-f318-446d-8e08-53cf6f36ff73" width="500" height="400"/>
 </details>
 
 

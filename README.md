@@ -59,26 +59,25 @@ STS + JSP 커뮤니티_스터디룸 예약 사이트
 
 
 ## ERD
-<img src="https://github.com/user-attachments/assets/40d7bb2a-73ba-4334-b48c-8c7770d08a61" width="500" height="400"/>
+<img src="https://github.com/user-attachments/assets/40d7bb2a-73ba-4334-b48c-8c7770d08a61" width="600" height="400"/>
 
 
 
 ## 구현화면
 <details>
   <summary>보기</summary>
-   <img src="https://github.com/user-attachments/assets/e144d420-536e-4fdc-8901-eb1445378e11" width="500" height="400"/>
-    <img src="https://github.com/user-attachments/assets/aeac7994-d775-4652-9e03-fb4d57ad8a14" width="500" height="400"/>
-    <img src="https://github.com/user-attachments/assets/91259617-7af7-4173-ace4-b3f0c2e40c88" width="500" height="400"/>
-    <img src="https://github.com/user-attachments/assets/8df55615-8e30-48b5-9af7-d6b7d41112cd" width="500" height="400"/>
-    <img src="https://github.com/user-attachments/assets/fe84ae29-827d-4c95-9cca-de63289e5648" width="500" height="400"/>
-    <img src="https://github.com/user-attachments/assets/3f0670e4-e158-4f86-9f9d-d8d2e6827c22" width="500" height="400"/>
-    <img src="https://github.com/user-attachments/assets/5910d1cf-ce31-474e-84eb-5a0c4221fb76" width="500" height="400"/>
-    <img src="https://github.com/user-attachments/assets/7e7137d1-f318-446d-8e08-53cf6f36ff73" width="500" height="400"/>
+   <img src="https://github.com/user-attachments/assets/e144d420-536e-4fdc-8901-eb1445378e11" width="600" height="400"/><br>
+    <img src="https://github.com/user-attachments/assets/aeac7994-d775-4652-9e03-fb4d57ad8a14" width="600" height="400"/><br>
+    <img src="https://github.com/user-attachments/assets/91259617-7af7-4173-ace4-b3f0c2e40c88" width="600" height="400"/><br>
+    <img src="https://github.com/user-attachments/assets/8df55615-8e30-48b5-9af7-d6b7d41112cd" width="600" height="400"/><br>
+    <img src="https://github.com/user-attachments/assets/fe84ae29-827d-4c95-9cca-de63289e5648" width="600" height="400"/><br>
+    <img src="https://github.com/user-attachments/assets/3f0670e4-e158-4f86-9f9d-d8d2e6827c22" width="600" height="400"/><br>
+    <img src="https://github.com/user-attachments/assets/5910d1cf-ce31-474e-84eb-5a0c4221fb76" width="600" height="400"/><br>
+    <img src="https://github.com/user-attachments/assets/7e7137d1-f318-446d-8e08-53cf6f36ff73" width="600" height="400"/><br>
 </details>
 
 
-## 회고록
-(https://purple-indigo-578.notion.site/DingDong-03fd42e685d54caaa6ed16234d1891f1)
+## [회고록](https://purple-indigo-578.notion.site/DingDong-03fd42e685d54caaa6ed16234d1891f1)
 
 
 

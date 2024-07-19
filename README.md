@@ -1,4 +1,4 @@
-## SpringToolSuite_ Project_Dingdong
+# SpringToolSuite_ Project_Dingdong
 STS + JSP 커뮤니티_스터디룸 예약 사이트
 
 
@@ -68,7 +68,7 @@ STS + JSP 커뮤니티_스터디룸 예약 사이트
   <summary>보기</summary>
    <img src="https://github.com/user-attachments/assets/e144d420-536e-4fdc-8901-eb1445378e11" width="600" height="400"/><br>
     <img src="https://github.com/user-attachments/assets/aeac7994-d775-4652-9e03-fb4d57ad8a14" width="600" height="400"/><br>
-    <img src="https://github.com/user-attachments/assets/91259617-7af7-4173-ace4-b3f0c2e40c88" width="600" height="400"/><br>
+    <img src="https://github.com/user-attachments/assets/89be90d3-60c5-4ad0-af51-328e80212792" width="600" height="400"/><br>
     <img src="https://github.com/user-attachments/assets/8df55615-8e30-48b5-9af7-d6b7d41112cd" width="600" height="400"/><br>
     <img src="https://github.com/user-attachments/assets/fe84ae29-827d-4c95-9cca-de63289e5648" width="600" height="400"/><br>
     <img src="https://github.com/user-attachments/assets/3f0670e4-e158-4f86-9f9d-d8d2e6827c22" width="600" height="400"/><br>

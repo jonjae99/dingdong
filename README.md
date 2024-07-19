@@ -59,25 +59,26 @@ STS + JSP 커뮤니티_스터디룸 예약 사이트
 
 
 ## ERD
-<img src="![dingdong ERD](https://github.com/user-attachments/assets/07230375-6b32-45ef-b964-d213ae7b4f7d)">
+![dingdong ERD](https://github.com/user-attachments/assets/40d7bb2a-73ba-4334-b48c-8c7770d08a61)
+
 
 
 ## 구현화면
 <details>
   <summary>보기</summary>
-  <img src="![스크린샷 2024-07-19 162938](https://github.com/user-attachments/assets/075df8c9-c29a-4d6a-af3b-b1817826fccb)">
-  <img src="![스크린샷 2024-07-19 163028](https://github.com/user-attachments/assets/5423bf1c-bc7e-4d51-9b17-c4f211b80ff9)">
-  <img src="![스크린샷 2024-07-19 163131](https://github.com/user-attachments/assets/127a0ba9-6ff6-4e83-8b6e-d70eee85058f)">
-  <img src="![스크린샷 2024-07-19 163240](https://github.com/user-attachments/assets/0498ed67-5481-4eea-b594-2d9a8392814e)">
-  <img src="![스크린샷 2024-07-19 163258](https://github.com/user-attachments/assets/728d13b1-bb00-4af3-966a-5609b942d7c5)">
-  <img src="![스크린샷 2024-07-19 163343](https://github.com/user-attachments/assets/586bf60d-1ae7-4f13-84b5-93499a023aad)">
-  <img src="![스크린샷 2024-07-19 163413](https://github.com/user-attachments/assets/0c5443bc-4c68-4725-b1ba-e6a066c7b867)">
-  <img src="![스크린샷 2024-07-19 163448](https://github.com/user-attachments/assets/0152157e-9cac-42d3-9665-59af3f690b27)">  
+  ![스크린샷 2024-07-19 162938](https://github.com/user-attachments/assets/075df8c9-c29a-4d6a-af3b-b1817826fccb)
+  ![스크린샷 2024-07-19 163028](https://github.com/user-attachments/assets/5423bf1c-bc7e-4d51-9b17-c4f211b80ff9)
+  ![스크린샷 2024-07-19 163131](https://github.com/user-attachments/assets/127a0ba9-6ff6-4e83-8b6e-d70eee85058f)
+  ![스크린샷 2024-07-19 163240](https://github.com/user-attachments/assets/0498ed67-5481-4eea-b594-2d9a8392814e)
+  ![스크린샷 2024-07-19 163258](https://github.com/user-attachments/assets/728d13b1-bb00-4af3-966a-5609b942d7c5)
+  ![스크린샷 2024-07-19 163343](https://github.com/user-attachments/assets/586bf60d-1ae7-4f13-84b5-93499a023aad)
+  ![스크린샷 2024-07-19 163413](https://github.com/user-attachments/assets/0c5443bc-4c68-4725-b1ba-e6a066c7b867)
+  ![스크린샷 2024-07-19 163448](https://github.com/user-attachments/assets/0152157e-9cac-42d3-9665-59af3f690b27)  
 </details>
 
 
 ## 회고록
-[회고록](https://purple-indigo-578.notion.site/DingDong-03fd42e685d54caaa6ed16234d1891f1)
+(https://purple-indigo-578.notion.site/DingDong-03fd42e685d54caaa6ed16234d1891f1)
 
 
 
